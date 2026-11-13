@@ -1,4 +1,4 @@
-# Kalkulator Diskon Belanja (PHP + MySQL)
+# Kalkulator Diskon Belanja
 
 Program PHP untuk menghitung diskon belanja menggunakan fungsi `hitungDiskon()` yang menerima parameter total belanja dan mengembalikan nilai diskon. Hasil hitungan disimpan ke database MySQL sebagai riwayat.
 
